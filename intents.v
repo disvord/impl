@@ -1,5 +1,7 @@
 module disvord
+
 pub type Intent = int
+
 pub const (
 	guilds                   = Intent(1 << 0)
 	guild_members            = Intent(1 << 1)

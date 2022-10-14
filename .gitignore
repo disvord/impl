@@ -5,3 +5,7 @@ disvord
 *.exe
 
 *.txt
+
+*.so
+
+config.json
